@@ -1,5 +1,5 @@
 <assembly>
-    <blogId>assembly</blogId> <!-- release -->
+    <id>assembly</id> <!-- release -->
     <formats>
         <format>tar.gz</format>
     </formats>

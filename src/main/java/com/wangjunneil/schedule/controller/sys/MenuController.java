@@ -1,4 +1,4 @@
-package com.wangjunneil.schedule.controller;
+package com.wangjunneil.schedule.controller.sys;
 
 import com.alibaba.fastjson.JSON;
 import com.wangjunneil.schedule.common.Constants;

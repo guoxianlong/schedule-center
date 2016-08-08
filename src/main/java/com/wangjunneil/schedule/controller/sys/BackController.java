@@ -1,4 +1,4 @@
-package com.wangjunneil.schedule.controller;
+package com.wangjunneil.schedule.controller.sys;
 
 import com.jd.open.api.sdk.request.order.OrderSopOutstorageRequest;
 import com.wangjunneil.schedule.service.JdFacadeService;
